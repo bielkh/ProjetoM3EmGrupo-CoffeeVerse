@@ -12,7 +12,7 @@ Este projeto foi feito pelo Squad 1 do Programadores Cariocas de Bonsucesso. Aqu
 - Pâmela Fernandes Costa [@Pamela-fc](https://github.com/Pamela-fc)
 - Ronaldo Rodrigues [@GawrOkayun](https://github.com/GawrOkayun)
 ## Demonstração
-Caso queira acessar ao site sem instalar ou baixar nada, acesse: https://coffee-verse.vercel.app/
+Caso queira acessar ao site sem instalar ou baixar nada, acesse: https://coffeeverse.vercel.app/
 
 ![App Screenshot](https://i.ibb.co/XCVGrHM/download.png)
 
