@@ -57,7 +57,7 @@ useEffect(() => {
                              Cookie com cobertura de chocolate tematizada com os butões do playstation.
                              <button class="butao">
                                  <ul>
-                                 <Link to ={`/pokebolos`}><li><a>Peça já o seu!</a></li></Link>
+                                 <li><a href='/pokebolos'>Peça já o seu!</a></li>
                                       </ul>
                              </button>
                          </p>
@@ -73,7 +73,7 @@ useEffect(() => {
                          dez aneis de cebola, para você se aventurar junto de Sonic.
                          <button class="butao" >
                              <ul>
-                                 <Link to ={`/pokebolos`}><li><a>Peça já o seu!</a></li></Link>
+                                <li><a href='/pokebolos'>Peça já o seu!</a></li>
                                   </ul>
                          </button>
                      </p>
@@ -89,7 +89,7 @@ useEffect(() => {
                             Três hamburguers artesanais, cada um baseados nos iniciais do Pokemon Yellow.
                             <button class="butao">
                              <ul>
-                             <Link to ={`/pokebolos`}><li><a>Peça já o seu!</a></li></Link>
+                            <li><a href='/pokebolos'>Peça já o seu!</a></li>
                                   </ul>
                          </button>
                          </p>
@@ -106,7 +106,7 @@ useEffect(() => {
                              <br />
                              <button class="butao">
                                  <ul>
-                                 <Link to ={`/pokebolos`}><li><a>Peça já o seu!</a></li></Link>
+                                <li><a href='/pokebolos'>Peça já o seu!</a></li>
                                       </ul>
                              </button>
                          </p>
@@ -122,7 +122,7 @@ useEffect(() => {
                              Doces amanteigados com forma do Cacodemon de DOOM.
                              <button class="butao">
                                  <ul>
-                                 <Link to ={`/pokebolos`}><li><a>Peça já o seu!</a></li></Link>
+                                 <li><a href='/pokebolos'>Peça já o seu!</a></li>
                                       </ul>
                              </button>
                          </p>
@@ -138,7 +138,7 @@ useEffect(() => {
                              Mini bolo de chocolate com vanilla com cobertura, em formato de pokebolas.
                              <button class="butao">
                                  <ul>
-                                 <Link to ={`/pokebolos`}><li><a>Peça já o seu!</a></li></Link>
+                                 <li><a href='/pokebolos'>Peça já o seu!</a></li>
                                       </ul>
                              </button>
                          </p>
@@ -161,7 +161,7 @@ useEffect(() => {
                              Delicioso Strogonoff de Carne com Champignon, acompanha Arroz e Batata Palha ou Batata Frita.
                              <button class="butao">
                                  <ul>
-                                 <Link to ={`/pokebolos`}><li><a>Peça já o seu!</a></li></Link>
+                                 <li><a href='/pokebolos'>Peça já o seu!</a></li>
                                       </ul>
                              </button>
                          </p>
@@ -177,7 +177,7 @@ useEffect(() => {
                          Lasanha bolonhesa com molho branco, queijo e presunto. Acompanha Arroz, Salada ou Batata Frita.
                          <button class="butao">
                              <ul>
-                             <Link to ={`/pokebolos`}><li><a>Peça já o seu!</a></li></Link>
+                             <li><a href='/pokebolos'>Peça já o seu!</a></li>
                                   </ul>
                          </button>
                      </p>
@@ -194,7 +194,7 @@ useEffect(() => {
                              <br />
                              <button class="butao">
                                  <ul>
-                                 <Link to ={`/pokebolos`}><li><a>Peça já o seu!</a></li></Link>
+                                 <li><a href='/pokebolos'>Peça já o seu!</a></li>
                                       </ul>
                              </button>
                          </p>
@@ -210,7 +210,7 @@ useEffect(() => {
                              Café expresso quentinho no estilo cibernético
                              <button class="butao">
                                  <ul>
-                                 <Link to ={`/pokebolos`}><li><a>Peça já o seu!</a></li></Link>
+                                 <li><a href='/pokebolos'>Peça já o seu!</a></li>
                                       </ul>
                              </button>
                          </p>
@@ -227,7 +227,7 @@ useEffect(() => {
                              <br />
                              <button class="butao">
                                  <ul>
-                                 <Link to ={`/pokebolos`}><li><a>Peça já o seu!</a></li></Link>
+                                 <li><a href='/pokebolos'>Peça já o seu!</a></li>
                                       </ul>
                              </button>
                          </p> 
@@ -243,7 +243,7 @@ useEffect(() => {
              Chá delicioso verde e quente inspirado em poções de cura nos jogos. Ótimo para dias frios.
              <button class="butao">
                  <ul>
-                 <Link to ={`/pokebolos`}><li><a>Peça já o seu!</a></li></Link>
+                 <li><a href='/pokebolos'>Peça já o seu!</a></li>
                       </ul>
              </button>
              </p>
